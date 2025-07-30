@@ -2,8 +2,8 @@
 
 A passionate backend developer from Vietnam 🇻🇳  
 
-🎓 Sinh viên năm 4 tại **Đại học Công nghiệp TP.HCM (IUH)**
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=%F0%9F%8C%B1+Stringboot;%F0%9F%8E%93+Sinh+Vi%C3%AAn+n%C4%83m+4+;%F0%9F%92%BB+Backend+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=%F0%9F%8C%B1+Stringboot;%F0%9F%8E%93+Sinh+Vi%C3%AAn+n%C4%83m+4+;%F0%9F%92%BB+Backend+Developer" alt="Typing SVG" /></a>
 ---
 
 ## 🧑‍🎓 About Me:
