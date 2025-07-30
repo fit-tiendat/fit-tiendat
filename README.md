@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Nguyễn Tiến Đạt
 
-<!--
-**fit-tiendat/fit-tiendat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate backend developer from Vietnam 🇻🇳  
 
-Here are some ideas to get you started:
+🎓 Sinh viên năm 4 tại **Đại học Công nghiệp TP.HCM (IUH)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍🎓 About Me:
+
+- 🎓 Sinh viên năm 4 tại Đại học Công nghiệp TP.HCM (IUH)
+- 💻 Yêu thích phát triển phần mềm backend với Java (Spring Boot)
+- 🚀 Đang học và phát triển các dự án cá nhân với Spring Boot + MySQL
+
+---
+
+## 📫 How to reach me:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/tien.at.786725/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fit-tiendat)
+
+---
+
+## 🛠️ Tech Stack:
+
+### 👨‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+### 🧠 Back-End
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Dự án tiêu biểu:
+
+
+---
+
+## 📊 GitHub Stats
+
+> (Bạn có thể thêm GitHub Stats nếu muốn, ví dụ sử dụng [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))
+
+---
+
+❤️ **Cảm ơn bạn đã ghé thăm!**  
+_"Code, học hỏi, chia sẻ – chính là con đường mình đang đi!"_ 🚀
