@@ -52,10 +52,6 @@ A real client landing page completed independently.
 - Designed and developed the responsive website
 - Managed deployment, domain configuration, SSL, and ongoing maintenance
 
-### 📚 [English Center Management System](https://github.com/fit-tiendat/English-Center-Management-System)
-
-A CRUD management system for courses, teachers, students, and classes using Node.js, Express, MongoDB, and vanilla HTML/CSS/JavaScript.
-
 ## Experience
 
 - **Backend Developer Intern — R2S** · Mar 2025 – Aug 2025 · Hybrid
